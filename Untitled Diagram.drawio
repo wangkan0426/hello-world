@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T09:04:59.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="lcmYeC_9sDf08xvhsO6C" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-01T10:50:37.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WzY2fOdK7aku0IHzdRLl" version="13.10.4" type="github" pages="2">
   <diagram id="3rQoYeFcdN2NfCOZFEvK" name="Page-1">
-    <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2604" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,7 +409,7 @@
           <mxGeometry x="52.5" y="1150" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nCokUab-BiOMGtAnf7Bx-171" value="Yes" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="32.5" y="1120" width="40" height="20" as="geometry" />
+          <mxGeometry x="32.5" y="1110" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nCokUab-BiOMGtAnf7Bx-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nCokUab-BiOMGtAnf7Bx-172" target="nCokUab-BiOMGtAnf7Bx-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -479,7 +479,7 @@
           <mxGeometry x="-140" y="970" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nCokUab-BiOMGtAnf7Bx-195" value="Yes" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-73" y="940" width="40" height="20" as="geometry" />
+          <mxGeometry x="-70.5" y="1020" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nCokUab-BiOMGtAnf7Bx-196" value="No" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-10" y="872.5" width="40" height="20" as="geometry" />
@@ -724,7 +724,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nCokUab-BiOMGtAnf7Bx-284" value="&lt;font color=&quot;#000000&quot;&gt;根据销售类型分为&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#3399FF;" parent="1" vertex="1">
+        <mxCell id="nCokUab-BiOMGtAnf7Bx-284" value="&lt;font color=&quot;#000000&quot;&gt;根据销售类型分组&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;fontColor=#ffffff;fillColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="-70" y="685" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nCokUab-BiOMGtAnf7Bx-293" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nCokUab-BiOMGtAnf7Bx-291" target="nCokUab-BiOMGtAnf7Bx-40" edge="1">
@@ -765,9 +765,6 @@
         </mxCell>
         <mxCell id="Qjw0dNW2Aa7NflXmQAdn-3" value="分箱失败" style="text;html=1;strokeColor=#B20000;fillColor=#e51400;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-29" y="1150" width="59" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="qUxefXsDWhM1_uTS0UXM-2" value="不能同时存在跨境和本地" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#e51400;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1090" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
